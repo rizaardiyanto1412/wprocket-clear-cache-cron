@@ -8,7 +8,7 @@ This will give you guide how to clear cache manually on WP Rocket. This method w
 2. Upload it to your WordPress root directory. (where wp-config.php and wp-load.php are located).
 3. Execute it through your cron job of your server. Different server has it's own way to setup cron job. 
 - For the time format, it depends on when you want the script to be executed. For example if you want to execute it everyday on midnight (where there is less activities on your website) you can set it to `0 0 * * * `
-In cPanel it should be something like this: <img src="https://i.imgur.com/iBTFE8z.png" height="250px">
+In cPanel it should be something like this: <br><img src="https://i.imgur.com/iBTFE8z.png" height="250px"><br>
 You can use something like https://crontab.guru/ to get the exact time.
 - For the command, basic command will depend on what you want to do. For example if you want to execute a file, just put the path to the file in the command. Here is the example of how to run it on cPanel: `/usr/local/bin/php /home/username_cpanel/public_html/path/to/cron/script`
 
