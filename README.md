@@ -36,4 +36,4 @@ If your cron is running, they should output file named cron-log.txt which contai
 
 If you did not get the file, please contact your server administrator.
 
-NOTE: This repository is for fulfilling the task from WP Rocket technical assesment (Riza Maulana Ardiyanto)
+
